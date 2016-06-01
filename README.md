@@ -1,5 +1,5 @@
 # simple-MP3-Player-QT
-A simple mp3 player with playlist that has functionalities like Play, Pause, Stop, Next, Preview, Shuffle and mute using C++(QT Framework)
+A simple cross platform mp3 player with playlist that has functionalities like Play, Pause, Stop, Next, Preview, Shuffle and mute using C++(QT Framework)
 
 💎 Scope of the project
 
